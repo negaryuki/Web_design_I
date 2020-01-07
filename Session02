@@ -3,6 +3,9 @@
   
     <head> 
         <meta charset="utf-8">
+        <meta name="keywords" content = "Kaomoji, Emoji, Kao, Moji">
+        <meta name = "description" content="the worlds first kaomoji website EVA">
+
         <title>Welcome to HTML!</title>
     </head>
     <body>
@@ -49,8 +52,19 @@
             Click below:
         </p>
         <a href="http://kaomoji.ru/en/" target="_blank"><img src="assets/images/download.jpg" title="Kaomoji" alt="Kaomoji"></a>
+         <p>
+
+            Do you know the Abbriviation of KAOMOJI? just point your mouse on <abbr title ="KAO (Face) + MOJI (word)">THIS</abbr>"!
+            Just kiddding :P I know it's not a abbriviation. this is just a practice . why so serious guys? 	╮(￣ω￣;)╭
+         </p>
         
-        
+        <footer>
+<address>
+
+    Heaven City, next to Hell, second crossroad 
+</address>
+
+        </footer>
 
 
     </body>
