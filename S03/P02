@@ -1,0 +1,103 @@
+<html>
+	<head>
+	<title> second practice</title>
+	</head>
+	<body bgcolor = "#fc5c65">
+	<h1 align = "center"> Register Form </h1>
+	<form>
+<table align = "Center" cellspacing =10>
+	<tr>
+	<td align= "right"> Full Name: </td>
+	<td>
+		<input type = "text" name = "FullName" Value = "First Name" >
+		,
+		<input type = "text" name = "FullName" Value = "Middle" >
+		, 
+		<input type = "text" name = "FullName" Value = "Last Name" > 
+	</td>
+	</tr>
+	
+	<tr>
+	<td align= "right"> Birth Date:</td>
+	<td>
+	
+	<select name = "Year"> 
+					   <option value = "Jan"> January </option>
+					   <option value = "Feb"> February </option>
+					   <option value = "Mar"> March </option>
+					   <option value = "Apr"> April </option>
+					   <option value = "May"> May </option>
+					   <option value = "Jun">  June </option>
+					   <option value = "Jul"> July </option>
+					   <option value = "Aug"> August </option>
+					   <option value = "Sep"> September </option>
+					   <option value = "Oct"> October </option>
+					   <option value = "Nov"> November </option>
+					   <option value = "Dec"> December </option>
+					   
+					   </select>
+					   ,
+					   <input type = "text" name = "Day" Value = "DD" > 
+					   ,
+					   <input type = "text" name = "Year" Value = "YYYY" > 
+	</td>
+	</tr>
+	
+	<tr >
+	<td align= "right">E-mail:</td>
+	<td>
+					   <input type = "text" name = "e-mail" Value = "" > 
+					   &nbsp &nbsp &nbsp &nbsp 
+	    Password :     <input type = "password" name = "Pasword" Value = "" > </p>
+	</td>
+	</tr>
+	
+	<tr>
+	<td align= "right">Credit Card:</td>
+	<td> 
+					  Master <input type = "radio" name = "Credit card" Value = "Master" >
+					  Visa   <input type = "radio" name = "Credit card" Value = "Visa" >
+					  Golden <input type = "radio" name = "Credit card" Value = "Golden" >
+					  &nbsp &nbsp &nbsp &nbsp
+		 Number:	         <input type = "text" name = "CardNo" Value = "" >
+
+	</td>
+	</tr>
+	
+	<tr >
+	<td align= "right">Interests:</td>
+	<td> 
+					 <input type = "checkbox" name = "C#" Value = "on" >  C#
+					 <input type = "checkbox" name = "JavaScript" Value = "on" > JavaScript
+					 <input type = "checkbox" name = "Python" Value = "on" > Python
+					 <input type = "checkbox" name = "SQL" Value = "on" > SQL	
+	</td>
+	</tr>
+	
+	<tr>
+	<td align= "right">	Address:</td>
+	<td>
+					<textarea name = "address" cols = "20"  rows= "4">
+					</textarea> 
+	</td>
+	</tr>
+	
+	
+	<tr>
+	<td></td>
+	<td>
+		 <input type = "Submit" name = "Submit" Value = "Submit">
+		 <input type = "Reset" name = "reset" Value = "Reset"></td>
+	</tr>
+	
+	
+</table>
+	
+	</form>
+	</body>
+</html>
+
+
+
+
+
