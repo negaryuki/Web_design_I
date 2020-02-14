@@ -1,0 +1,38 @@
+<html > 
+	<head> 
+		<title> Session No. 02</title> 
+	</head>
+	<body Bgcolor = "#f8a5c2">
+		<h1 align = "center"> <font color = "#c44569"> <u>3rd Session</u> </font> </h1>
+		<h2>  <font color = "#574b90">Practice No.1 : </font> </h2>
+		
+	
+	
+	<table cellspacing = 0 align = "center" width = "100%" height = "100%">
+		
+		<tr>
+			<td align = "center" > <a href = "page01.html"> <img src="img/rabbit.gif" alt = "cute rabbit" width = "200" height = "200"> </a> </td>
+			<td align = "center"> <a href = "page02.html"> <img src="img/panda02.gif" alt = "cute Panda" width = "150" height = "150"> </a> </td>
+			<td align = "center"> <a href = "page03.html"> <img src="img/cat.gif" alt = "cute cat" width = "200" height = "200"> </a> </td>
+			<td align = "center"> <a href = "page04.html"> <img src="img/bear.gif" alt = "cute bear" width = "200" height = "200"> </a> </td>
+		</tr>
+		
+		<tr>
+			<td align = "center" colspan = "4" > <img src="img/bear.gif" alt = " Big cute Panda"> </td>
+			
+		</tr>
+		
+		<tr>
+			<td align = "left" valign = "bottom" colspan = "2"> <a href = "page03.html"> <font size = "5">  < Previous </font> </a> </td>
+			
+			<td align = "right" valign = "bottom" colspan = "2"> <a href = "page01.html"> <font size = "5"> Next > </font> </a> </td>
+		</tr>
+		
+	</table>
+	
+	
+	
+	</body> 
+</html>
+
+
