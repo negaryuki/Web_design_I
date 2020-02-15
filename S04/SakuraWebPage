@@ -1,0 +1,110 @@
+
+<html>
+	<head>
+		<title> Sakura </title>
+	</head>
+	<body>
+	
+<table border = "0" cellspacing = "0" width=  "100%" height = "100%" cellpadding = "2">
+	<tr>
+		<td colspan = "3" valign = "top">
+		<table background = "img/flower01.jpg" width = "100%" height = "400" cellpadding = "20" > 
+	<tr>
+		<td valign = "top"> <h1> <Font color = "white"> Flower Page </font> </h1> </br>
+		<h2> <font color = "white"> Main Page, for Flower Lovers  </font> </h2> 
+		</td>
+	</tr>
+</table>
+
+		</td>
+	</tr>	
+	
+	<tr >
+		<td width = "250" valign = "top">
+			<table  bgcolor = "#FDA7DF" cellpadding = "0" cellspacing = "0" width = "100%" height = "40%">
+				<tr>
+					<th align = "left" bgcolor = "#B53471" > Category: </th>
+				</tr>
+				<tr>
+					<td> World Politics </td>
+				</tr>
+				<tr>
+					<td> Europe </td>
+				</tr>
+				<tr>
+					<td> Network </td>
+				</tr>
+				<tr>
+					<td> Nature </td>
+				</tr>
+				<tr>
+					<td> Last Category </td>
+				</tr>
+
+
+			</table>
+
+			<table  bgcolor = "#FDA7DF" cellpadding = "0" cellspacing = "0" width = "100%" height = "60%">
+
+				<tr >
+					<th align = "left" bgcolor = "#B53471" > Archives: </th>
+				</tr>
+				<tr>
+					<td> January </td>
+				</tr>
+				<tr>
+					<td> February </td>
+				</tr>
+				<tr>
+					<td> March </td>
+				</tr>
+				<tr>
+					<td> April </td>
+				</tr>
+				<tr>
+					<td> May </td>
+				</tr>
+				<tr>
+					<td> June </td>
+				</tr>
+				<tr>
+					<td> July </td>
+				</tr>
+				<tr>
+					<td> August </td>
+				</tr>
+
+			</table>
+		
+		</td>
+		<td colspan = "2">
+		
+	<h2> <font color = "#FDA7DF"> Cherry blossom </font> </h2>
+	<p> A cherry blossom is a flower of many trees of genus Prunus. The most well-known species is the Japanese cherry, Prunus serrulata, which is commonly called sakura (桜 or 櫻; さくら).
+	</p>
+	<img src = "img/sakura01.gif" alt = "animated sakura"> 
+	<p>
+	They are widely distributed, especially in the temperate zone of the Northern Hemisphere including Japan, Taiwan, Korea, Mainland China, Nepal, India, Pakistan, Afghanistan, Iran, Myanmar, Thailand and West Siberia. Along with the chrysanthemum, the cherry blossom is considered the national flower of Japan.
+	</P>
+
+<h2> <font color = "#FDA7DF">Symbolism in Japan </font></h2>
+<p> 
+
+In Japan, cherry blossoms symbolize clouds due to their nature of blooming en masse, besides being an enduring metaphor for the ephemeral nature of life,an aspect of Japanese cultural tradition that is often associated with Buddhist influence, and which is embodied in the concept of mono no aware.The association of the cherry blossom with mono no aware dates back to 18th-century scholar Motoori Norinaga. The transience of the blossoms, the exquisite beauty and volatility, has often been associated with mortality and graceful and readily acceptance of destiny and karma; for this reason, cherry blossoms are richly symbolic, and have been utilized often in Japanese art, manga, anime, and film, as well as at musical performances for ambient effect.
+
+</p>
+
+		</td>	
+	</tr>
+	
+	<tr>
+		<td colspan = "3" height = "20" align = "center">
+		<font size = "2"> Designed by <font color = "#FDA7DF"> Negar Norouzi </font> </font> 
+		</td> 	
+	</tr>
+
+</table>
+
+</body>
+
+</html>
